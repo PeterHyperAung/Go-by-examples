@@ -1,2 +1,2 @@
 # Go-by-examples
-Code from go by examples website
+Code from [Go by example website](https://gobyexample.com/)
